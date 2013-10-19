@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Memorandum]]></title>
+  <link href="http://uedayo.github.io/atom.xml" rel="self"/>
+  <link href="http://uedayo.github.io/"/>
+  <updated>2013-10-19T22:19:31+09:00</updated>
+  <id>http://uedayo.github.io/</id>
+  <author>
+    <name><![CDATA[uedayo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://uedayo.github.io/blog/2013/10/19/first-post/"/>
+    <updated>2013-10-19T21:29:00+09:00</updated>
+    <id>http://uedayo.github.io/blog/2013/10/19/first-post</id>
+    <content type="html"><![CDATA[<p>test post</p>
+]]></content>
+  </entry>
+  
+</feed>

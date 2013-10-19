@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://uedayo.github.io/sitemap.xml 
